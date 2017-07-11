@@ -1,0 +1,13 @@
+w Insufficient balance
+w 1500
+d 3000
+d 3700
+w 2500
+d 2690
+w 2620
+w 2535
+d 3135
+d 3935
+w 2835
+Current balance: 2835
+Number of transactions: 10
