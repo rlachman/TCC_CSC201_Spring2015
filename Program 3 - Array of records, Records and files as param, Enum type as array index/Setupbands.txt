@@ -1,0 +1,6 @@
+yellow	 3
+green	 5
+red		 8
+blue	13
+black	19
+
