@@ -1,3 +1,7 @@
+//Ryan Lachman 
+//CSC 201 - March 2 2015
+//Project: Nested loops, EOF while loops, sentinel, I/O file
+
 #include<iostream>
 #include<fstream>
 #include<iomanip>
